@@ -1,1 +1,1 @@
-Setting up GIT in mac
+Setting up GIT in mac!
